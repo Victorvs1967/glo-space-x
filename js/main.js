@@ -8,3 +8,5 @@ const instance = new vidbg('.video', {
   });
 
 const rellax = new Rellax(".rocket");
+
+AOS.init();
