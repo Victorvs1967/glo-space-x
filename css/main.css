@@ -93,6 +93,7 @@ body {
 
 .rocket {
     margin-left: 50%;
+    margin-top: -500px;
     position: absolute;
     z-index: 99;
 }
