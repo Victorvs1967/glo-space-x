@@ -92,8 +92,9 @@ body {
 }
 
 .rocket {
-    margin-left: 50%;
-    margin-top: -300px;
+    width: 25%;
+    margin-left: 60%;
+    margin-top: -400px;
     position: absolute;
     z-index: 99;
 }
