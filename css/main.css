@@ -195,7 +195,39 @@ body {
 }
 
 @media (max-width: 768px) {
+    .video {
+        max-width: 100%;
+        max-height: 500px;
+        margin-bottom: 100px;
+    }
 
+    .overview {
+        margin-bottom: 50px;
+    }
+    .features {
+        margin-left: 100px;
+    }
+
+    .item-table {
+        width: 200px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 179.69%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .rocket {
+        max-width: 200px;
+        margin: auto;
+        margin-left: 60%;
+        margin-bottom: 30px;
+    }
+
+    .features-text {
+        width: 60%;
+    }
+ 
 }
 
 @media (max-width: 536px) {
@@ -240,7 +272,6 @@ body {
         max-width: 200px;
         position: static;
         margin: auto;
-        margin-left: 20%;
         margin-bottom: 30px;
     }
 
